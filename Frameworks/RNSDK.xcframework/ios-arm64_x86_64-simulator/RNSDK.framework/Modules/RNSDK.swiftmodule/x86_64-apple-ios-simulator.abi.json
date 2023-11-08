@@ -150,7 +150,6 @@
         "usr": "c:@M@RNSDK@objc(cs)RNSDKViewController",
         "mangledName": "$s5RNSDK19RNSDKViewControllerC",
         "moduleName": "RNSDK",
-        "isOpen": true,
         "declAttributes": [
           "Custom",
           "AccessControl",
@@ -229,21 +228,21 @@
     {
       "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/new-poc\/Example\/ios\/RNSDK\/RNSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 265,
+      "offset": 267,
       "length": 29,
       "value": "\"RNSDK.bundle\/rnsdk.jsbundle\""
     },
     {
       "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/new-poc\/Example\/ios\/RNSDK\/RNSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 367,
+      "offset": 369,
       "length": 9,
       "value": "\"Example\""
     },
     {
       "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/new-poc\/Example\/ios\/RNSDK\/RNSDKViewController.swift",
       "kind": "Dictionary",
-      "offset": 397,
+      "offset": 399,
       "length": 3,
       "value": "[]"
     }
