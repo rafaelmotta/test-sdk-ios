@@ -237,13 +237,13 @@
       "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/new-poc\/Example\/ios\/RNSDK\/RNSDKViewController.swift",
       "kind": "StringLiteral",
       "offset": 367,
-      "length": 14,
-      "value": "\"RNSDKExample\""
+      "length": 9,
+      "value": "\"Example\""
     },
     {
       "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/new-poc\/Example\/ios\/RNSDK\/RNSDKViewController.swift",
       "kind": "Dictionary",
-      "offset": 402,
+      "offset": 397,
       "length": 3,
       "value": "[]"
     }
