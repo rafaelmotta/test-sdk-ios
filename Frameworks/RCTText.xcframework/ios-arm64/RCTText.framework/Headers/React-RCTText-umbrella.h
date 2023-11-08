@@ -18,7 +18,6 @@
 #import "RCTTextAttributes.h"
 #import "RCTTextTransform.h"
 #import "NSTextStorage+FontScaling.h"
-#import "RCTDynamicTypeRamp.h"
 #import "RCTTextShadowView.h"
 #import "RCTTextView.h"
 #import "RCTTextViewManager.h"

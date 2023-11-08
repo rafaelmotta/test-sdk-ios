@@ -1,5 +1,5 @@
-/*
- * Copyright (c) Meta Platforms, Inc. and affiliates.
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -7,8 +7,6 @@
 
 #import <React/RCTBridge.h>
 #import <React/RCTDefines.h>
-#import <React/RCTEventEmitter.h>
-#import <React/RCTInitializing.h>
 
 @protocol RCTPackagerClientMethod;
 
@@ -31,23 +29,14 @@
 
 @end
 
-@protocol RCTDevSettingsInspectable <NSObject>
-
-/**
- * Whether current jsi::Runtime is inspectable.
- * Only set when using as a bridgeless turbo module.
- */
-@property (nonatomic, assign, readwrite) BOOL isInspectable;
-
-@end
-
-@interface RCTDevSettings : RCTEventEmitter <RCTInitializing>
+@interface RCTDevSettings : NSObject
 
 - (instancetype)initWithDataSource:(id<RCTDevSettingsDataSource>)dataSource;
 
 @property (nonatomic, readonly) BOOL isHotLoadingAvailable;
+@property (nonatomic, readonly) BOOL isLiveReloadAvailable;
 @property (nonatomic, readonly) BOOL isRemoteDebuggingAvailable;
-@property (nonatomic, readonly) BOOL isDeviceDebuggingAvailable;
+@property (nonatomic, readonly) BOOL isNuclideDebuggingAvailable;
 @property (nonatomic, readonly) BOOL isJSCSamplingProfilerAvailable;
 
 /**
@@ -67,9 +56,20 @@
 @property (nonatomic, assign, setter=setProfilingEnabled:) BOOL isProfilingEnabled;
 
 /**
+ * Whether automatic polling for JS code changes is enabled. Only applicable when
+ * running the app from a server.
+ */
+@property (nonatomic, assign, setter=setLiveReloadEnabled:) BOOL isLiveReloadEnabled;
+
+/**
  * Whether hot loading is enabled.
  */
 @property (nonatomic, assign, setter=setHotLoadingEnabled:) BOOL isHotLoadingEnabled;
+
+/**
+ * Toggle the element inspector.
+ */
+- (void)toggleElementInspector;
 
 /**
  * Enables starting of profiling sampler on launch
@@ -86,24 +86,8 @@
  */
 @property (nonatomic, assign) BOOL isPerfMonitorShown;
 
-/**
- * Toggle the element inspector.
- */
-- (void)toggleElementInspector;
-
-/**
- * Set up the HMRClient if loading the bundle from Metro.
- */
-- (void)setupHMRClientWithBundleURL:(NSURL *)bundleURL;
-
-/**
- * Register additional bundles with the HMRClient.
- */
-- (void)setupHMRClientWithAdditionalBundleURL:(NSURL *)bundleURL;
-
-#if RCT_DEV_MENU
-- (void)addHandler:(id<RCTPackagerClientMethod>)handler
-    forPackagerMethod:(NSString *)name __deprecated_msg("Use RCTPackagerConnection directly instead");
+#if RCT_DEV
+- (void)addHandler:(id<RCTPackagerClientMethod>)handler forPackagerMethod:(NSString *)name __deprecated_msg("Use RCTPackagerConnection directly instead");
 #endif
 
 @end
@@ -113,8 +97,3 @@
 @property (nonatomic, readonly) RCTDevSettings *devSettings;
 
 @end
-
-// In debug builds, the dev menu is enabled by default but it is further customizable using this method.
-// However, this method only has an effect in builds where the dev menu is actually compiled in.
-// (i.e. RCT_DEV or RCT_DEV_MENU is set)
-RCT_EXTERN void RCTDevSettingsSetEnabled(BOOL enabled);

@@ -2,7 +2,8 @@
 //  RNSDK.h
 //  RNSDK
 //
-//  Created by Rafael Michels Motta on 08/11/23.
+//  Created by LAP02092 on 02/11/2022.
+//  Copyright © 2022 Facebook. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

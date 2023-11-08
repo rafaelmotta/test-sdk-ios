@@ -1,5 +1,5 @@
-/*
- * Copyright (c) Meta Platforms, Inc. and affiliates.
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -9,13 +9,13 @@
 
 #import <React/RCTBridge.h>
 #import <React/RCTBridgeModule.h>
-#import <React/RCTDefines.h>
 
-#if RCT_DEV_MENU
+#if RCT_DEV
 
 RCT_EXTERN NSString *const RCTShowDevMenuNotification;
 
 #endif
+
 
 @class RCTDevMenuItem;
 
@@ -37,12 +37,12 @@ RCT_EXTERN NSString *const RCTShowDevMenuNotification;
 /**
  * Deprecated, use RCTDevSettings instead.
  */
-@property (nonatomic, assign) BOOL hotLoadingEnabled DEPRECATED_ATTRIBUTE;
+@property (nonatomic, assign) BOOL liveReloadEnabled DEPRECATED_ATTRIBUTE;
 
 /**
- * Whether the hotkeys that toggles the developer menu is enabled.
+ * Deprecated, use RCTDevSettings instead.
  */
-@property (nonatomic, assign) BOOL hotkeysEnabled;
+@property (nonatomic, assign) BOOL hotLoadingEnabled DEPRECATED_ATTRIBUTE;
 
 /**
  * Presented items in development menu
@@ -60,14 +60,15 @@ RCT_EXTERN NSString *const RCTShowDevMenuNotification;
 - (void)show;
 
 /**
- * Deprecated, use `RCTReloadCommand` instead.
+ * Deprecated, use -[RCTBRidge reload] instead.
  */
 - (void)reload DEPRECATED_ATTRIBUTE;
 
 /**
  * Deprecated. Use the `-addItem:` method instead.
  */
-- (void)addItem:(NSString *)title handler:(void (^)(void))handler DEPRECATED_ATTRIBUTE;
+- (void)addItem:(NSString *)title
+        handler:(void(^)(void))handler DEPRECATED_ATTRIBUTE;
 
 /**
  * Add custom item to the development menu. The handler will be called
@@ -77,7 +78,7 @@ RCT_EXTERN NSString *const RCTShowDevMenuNotification;
 
 @end
 
-typedef NSString * (^RCTDevMenuItemTitleBlock)(void);
+typedef NSString *(^RCTDevMenuItemTitleBlock)(void);
 
 /**
  * Developer menu item, used to expose additional functionality via the menu.
@@ -88,14 +89,16 @@ typedef NSString * (^RCTDevMenuItemTitleBlock)(void);
  * This creates an item with a simple push-button interface, used to trigger an
  * action.
  */
-+ (instancetype)buttonItemWithTitle:(NSString *)title handler:(dispatch_block_t)handler;
++ (instancetype)buttonItemWithTitle:(NSString *)title
+                            handler:(dispatch_block_t)handler;
 
 /**
  * This creates an item with a simple push-button interface, used to trigger an
  * action. getTitleForPresentation is called each time the item is about to be
  * presented, and should return the item's title.
  */
-+ (instancetype)buttonItemWithTitleBlock:(RCTDevMenuItemTitleBlock)titleBlock handler:(dispatch_block_t)handler;
++ (instancetype)buttonItemWithTitleBlock:(RCTDevMenuItemTitleBlock)titleBlock
+                                 handler:(dispatch_block_t)handler;
 
 @end
 
