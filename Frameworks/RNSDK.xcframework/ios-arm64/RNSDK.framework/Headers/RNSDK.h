@@ -2,7 +2,7 @@
 //  RNSDK.h
 //  RNSDK
 //
-//  Created by Rafael Michels Motta on 07/11/23.
+//  Created by Rafael Michels Motta on 08/11/23.
 //
 
 #import <Foundation/Foundation.h>

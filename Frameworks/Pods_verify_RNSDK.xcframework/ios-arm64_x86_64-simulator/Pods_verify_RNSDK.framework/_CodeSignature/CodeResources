@@ -4,41 +4,41 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/Pods-RNSDK-umbrella.h</key>
+		<key>Headers/Pods-verify-RNSDK-umbrella.h</key>
 		<data>
-		MtSJeFJ0kPVFPFzHcSoDDTCfn+0=
+		42Pz6aYBn7Hs1yBhCAAo3NCwP+o=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MX7al8ziu7KTJRQubKelwB5tR/Y=
+		Q66cy3701B2CpEVWthydFn33Glg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		MFZQwi+bqi2XruZ015to907E/HM=
+		Apl9V+IRP+Zs34Zhcy2vruPA0Og=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/Pods-RNSDK-umbrella.h</key>
+		<key>Headers/Pods-verify-RNSDK-umbrella.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MtSJeFJ0kPVFPFzHcSoDDTCfn+0=
+			42Pz6aYBn7Hs1yBhCAAo3NCwP+o=
 			</data>
 			<key>hash2</key>
 			<data>
-			feQBtJMWN5RUf/rPrLSdzRn4W8ku3tKYP84r60QY5po=
+			5Gp8dOuvzrPMDrzFGXOSPXHe4/CWxTQ5OMXqB7lOj5o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MFZQwi+bqi2XruZ015to907E/HM=
+			Apl9V+IRP+Zs34Zhcy2vruPA0Og=
 			</data>
 			<key>hash2</key>
 			<data>
-			WKuU7VYcSu8ltLqc68RE88x0sApWi6v44XTXl7gkXoU=
+			jGwOVBlxpt31bbKw7jGuHJinC4w2lxjKWlK5yCuIPAs=
 			</data>
 		</dict>
 	</dict>

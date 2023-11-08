@@ -9,7 +9,10 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "RNSDK"
+        "moduleName": "RNSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -150,6 +153,7 @@
         "usr": "c:@M@RNSDK@objc(cs)RNSDKViewController",
         "mangledName": "$s5RNSDK19RNSDKViewControllerC",
         "moduleName": "RNSDK",
+        "isOpen": true,
         "declAttributes": [
           "Custom",
           "AccessControl",
@@ -226,23 +230,23 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/new-poc\/Example\/ios\/RNSDK\/RNSDKViewController.swift",
+      "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/poc\/verify\/ios\/RNSDK\/RNSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 267,
+      "offset": 311,
       "length": 29,
       "value": "\"RNSDK.bundle\/rnsdk.jsbundle\""
     },
     {
-      "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/new-poc\/Example\/ios\/RNSDK\/RNSDKViewController.swift",
+      "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/poc\/verify\/ios\/RNSDK\/RNSDKViewController.swift",
       "kind": "StringLiteral",
-      "offset": 369,
-      "length": 9,
-      "value": "\"Example\""
+      "offset": 413,
+      "length": 8,
+      "value": "\"verify\""
     },
     {
-      "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/new-poc\/Example\/ios\/RNSDK\/RNSDKViewController.swift",
+      "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/poc\/verify\/ios\/RNSDK\/RNSDKViewController.swift",
       "kind": "Dictionary",
-      "offset": 399,
+      "offset": 442,
       "length": 3,
       "value": "[]"
     }

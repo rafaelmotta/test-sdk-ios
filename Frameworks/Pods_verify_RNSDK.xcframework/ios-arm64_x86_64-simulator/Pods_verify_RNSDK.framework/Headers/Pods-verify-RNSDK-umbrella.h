@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_RNSDKVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_RNSDKVersionString[];
+FOUNDATION_EXPORT double Pods_verify_RNSDKVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_verify_RNSDKVersionString[];
 
