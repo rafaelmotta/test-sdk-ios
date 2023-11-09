@@ -215,11 +215,40 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           }
         ]
       }
     ],
     "json_format_version": 8
   },
-  "ConstValues": []
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/poc\/verify\/ios\/RNSDK\/RNSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 311,
+      "length": 29,
+      "value": "\"RNSDK.bundle\/rnsdk.jsbundle\""
+    },
+    {
+      "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/poc\/verify\/ios\/RNSDK\/RNSDKViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 413,
+      "length": 8,
+      "value": "\"verify\""
+    },
+    {
+      "filePath": "\/Users\/rafaelmichelsmotta\/Documents\/poc\/verify\/ios\/RNSDK\/RNSDKViewController.swift",
+      "kind": "Dictionary",
+      "offset": 442,
+      "length": 3,
+      "value": "[]"
+    }
+  ]
 }

@@ -6,131 +6,135 @@
 	<dict>
 		<key>Headers/NSTextStorage+FontScaling.h</key>
 		<data>
-		xywy3jd6TyPlZY2B77pe5d/N+lM=
+		kWxczFJ72oQEdLB++UTfBII6kNY=
 		</data>
 		<key>Headers/RCTBackedTextInputDelegate.h</key>
 		<data>
-		MZbyaOP1fLjMsoxVqwcn2X+dkR4=
+		YyKZomQNuaP5j69xNWrF298pMfw=
 		</data>
 		<key>Headers/RCTBackedTextInputDelegateAdapter.h</key>
 		<data>
-		0mWMPenZIziDYKgfl8ipQiQQPU8=
+		ZaB2FGDQPfBGrP1WdkzvzNPMfHQ=
 		</data>
 		<key>Headers/RCTBackedTextInputViewProtocol.h</key>
 		<data>
-		b1cLQlu5s/pwkjPo34zHT7K2n3E=
+		PjkAlx2kpfhZGVtQnSwMbxF0PPQ=
 		</data>
 		<key>Headers/RCTBaseTextInputShadowView.h</key>
 		<data>
-		c+gJrlyIuy8wk9RmxsqJQEC0oFY=
+		66oYw/QXqcqdBqmosVW0bKUNFMg=
 		</data>
 		<key>Headers/RCTBaseTextInputView.h</key>
 		<data>
-		+/sW4dnOA/0Yyj9QGYQodimsMh0=
+		U19T+Y2dGE+nepsGTQFpYUtW+Ec=
 		</data>
 		<key>Headers/RCTBaseTextInputViewManager.h</key>
 		<data>
-		oPfyuLITtDmeFkRunT6yeJ7fJok=
+		HneaCNIEpASOz2sJMtPLpoorLPk=
 		</data>
 		<key>Headers/RCTBaseTextShadowView.h</key>
 		<data>
-		HzyX3E/SV1PxxvvAyMETw+L1rOo=
+		oUfX3qSgTA4av1SBLOvjdhRQgtI=
 		</data>
 		<key>Headers/RCTBaseTextViewManager.h</key>
 		<data>
-		sHBrp8eLAksV9ftFZazssSxuhXk=
+		f46UJBPwh6QYCW7Cp4heY7pajGU=
 		</data>
 		<key>Headers/RCTConvert+Text.h</key>
 		<data>
-		cL5CVrBRVXWHEwfUNOzfHmqJkt4=
+		GBDjb/b0FFa9q/IisGDhVLD9M/s=
+		</data>
+		<key>Headers/RCTDynamicTypeRamp.h</key>
+		<data>
+		mLpUFSVLfAa01u8s517Mn8MUXUc=
 		</data>
 		<key>Headers/RCTInputAccessoryShadowView.h</key>
 		<data>
-		tY1rVc0LOPUzwCN4StO8mTSdcSI=
+		BZ0Myqlhqx6rvcrgOtVbz1yAP/E=
 		</data>
 		<key>Headers/RCTInputAccessoryView.h</key>
 		<data>
-		LIWTEfE2/GLO2iI5n3jP3viNUU8=
+		gfLeoU2RHpSP2LCFyt8fI/QnHRw=
 		</data>
 		<key>Headers/RCTInputAccessoryViewContent.h</key>
 		<data>
-		/QsFiR39sKGUWZKwdr01QEktasI=
+		q7WJG9zQ3Dr9VgT7/BBwBh2X3KQ=
 		</data>
 		<key>Headers/RCTInputAccessoryViewManager.h</key>
 		<data>
-		YCUhiyrNKS1N+v1NEfFdrmZ+9kM=
+		8ORL4PDm81YjjxbAGgjHCij/aB8=
 		</data>
 		<key>Headers/RCTMultilineTextInputView.h</key>
 		<data>
-		ePFdPzj2hv3d2l0xb5+CYL0R/PE=
+		H7cqYkT9Y4Lg0p/snE5XdIaBRIU=
 		</data>
 		<key>Headers/RCTMultilineTextInputViewManager.h</key>
 		<data>
-		OurZleefUSqQQytZtHvwvV29png=
+		zF6wikYJ4M0HpOYEjkD/9Tx1uog=
 		</data>
 		<key>Headers/RCTRawTextShadowView.h</key>
 		<data>
-		e2hFRmI0fXQOGVlldOQFASwElhE=
+		fzJkZAIIct6otBub0MPjA8gNGUI=
 		</data>
 		<key>Headers/RCTRawTextViewManager.h</key>
 		<data>
-		XrXpkUKAYeWg6aQQqLgQcbhuB5c=
+		X6NJN+XTlHOXKZdd92M9/hxpRZ8=
 		</data>
 		<key>Headers/RCTSinglelineTextInputView.h</key>
 		<data>
-		oQg1mLoGhX3QxsXhf7IinbW/2+M=
+		0wPJa6UhAML59hc9z/FtFYnoA38=
 		</data>
 		<key>Headers/RCTSinglelineTextInputViewManager.h</key>
 		<data>
-		Txorr6mWuZnDiTKpl4qTuLo9rkE=
+		m9l3EL7e1Ky144SPe2vy5RPcz48=
 		</data>
 		<key>Headers/RCTTextAttributes.h</key>
 		<data>
-		m53OHO2cL5fOxyGTyVMBznlsK4Y=
+		WKAhUIQUs/SWGp/2ORJzKHrBldU=
 		</data>
 		<key>Headers/RCTTextSelection.h</key>
 		<data>
-		qARCQqJWH3M8OfLnUHd4E2Ndj0Y=
+		VEVZJ78vy9QGoktRkhU2YS/+R4s=
 		</data>
 		<key>Headers/RCTTextShadowView.h</key>
 		<data>
-		DdX+yoK8CpWX2iySDf7Y3iPA1E4=
+		Nt8uFzHD0o5gPtGmJ1sjs8P4I/w=
 		</data>
 		<key>Headers/RCTTextTransform.h</key>
 		<data>
-		nv/o4fZAawHUVutZmemex4fDq6I=
+		IISCNFTYEQs6iuGdpMYVTTA0aVQ=
 		</data>
 		<key>Headers/RCTTextView.h</key>
 		<data>
-		nXEepAidOC0Nvf5CCczS/uNZ7DU=
+		+bfeecxIY8mCUfZQo6+DbDGKx8A=
 		</data>
 		<key>Headers/RCTTextViewManager.h</key>
 		<data>
-		svpwNJj1vUYSmNWBrR+nHRp9qPo=
+		l38VOe24o7MVyYwF1OlcAiC2FRQ=
 		</data>
 		<key>Headers/RCTUITextField.h</key>
 		<data>
-		kjTJp5NUCPt8B7AGTfySsDeZA3A=
+		sXbFDcFov7kedL9fN9d3AHGzE6g=
 		</data>
 		<key>Headers/RCTUITextView.h</key>
 		<data>
-		93YRR/Ypa6jDKAAhsn/zpS1Masc=
+		XLuxXYhJadI9mQeI3wSzQtxwI9c=
 		</data>
 		<key>Headers/RCTVirtualTextShadowView.h</key>
 		<data>
-		gfNX4l7VV8j+TSwDPDuomTeL030=
+		YcZp3BmXksc4HDeI7ozvz+rgfzY=
 		</data>
 		<key>Headers/RCTVirtualTextViewManager.h</key>
 		<data>
-		jFBlW4z53+cE2v1bqNNnyPi2xh8=
+		Lg5y88OHAqUCdpXyiOJwdsXaYJ0=
 		</data>
 		<key>Headers/React-RCTText-umbrella.h</key>
 		<data>
-		ROm7hlLvy7cwi13viRNysU48AeY=
+		AIbpHluMYfe7fnL/SNlbcQkRigM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		f7+w8Y257aJ095+RBg96qrB8oFw=
+		Vq+Acgg40TxVBDEqN4XVyleJBzw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -143,341 +147,352 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xywy3jd6TyPlZY2B77pe5d/N+lM=
+			kWxczFJ72oQEdLB++UTfBII6kNY=
 			</data>
 			<key>hash2</key>
 			<data>
-			K+feLAyE7hA3bKspE23ysuy5AadAHCVl6jNwSHh38ug=
+			WkXDa7AtB19LokdHS48/ih2hZHeobmYrwWEKySvoGmk=
 			</data>
 		</dict>
 		<key>Headers/RCTBackedTextInputDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MZbyaOP1fLjMsoxVqwcn2X+dkR4=
+			YyKZomQNuaP5j69xNWrF298pMfw=
 			</data>
 			<key>hash2</key>
 			<data>
-			XQ0L4eUw7bIGH1iPO4Ca8asMHrMsYOK0BC60Zv9fhMs=
+			xor4644R/EiDgN3dlbtwI+3H0u28agv2/aDiX6SHlIk=
 			</data>
 		</dict>
 		<key>Headers/RCTBackedTextInputDelegateAdapter.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0mWMPenZIziDYKgfl8ipQiQQPU8=
+			ZaB2FGDQPfBGrP1WdkzvzNPMfHQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			SAfAtun5XWHUM+XEEGqKKtRuJ9hemJhdSYs3nI6Q8WY=
+			4ZiQy5H8Cxe3c8iQbyvA+iFivVgS/ZHUEvMak2OJkzk=
 			</data>
 		</dict>
 		<key>Headers/RCTBackedTextInputViewProtocol.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b1cLQlu5s/pwkjPo34zHT7K2n3E=
+			PjkAlx2kpfhZGVtQnSwMbxF0PPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			sEyV/SCN7pBSOR2k+d6yFutLTDR561XwGESOaCmZi48=
+			JBCvCMVzzsZBlAPjBZtouP5n6QinefcpGpsQpCxaM10=
 			</data>
 		</dict>
 		<key>Headers/RCTBaseTextInputShadowView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c+gJrlyIuy8wk9RmxsqJQEC0oFY=
+			66oYw/QXqcqdBqmosVW0bKUNFMg=
 			</data>
 			<key>hash2</key>
 			<data>
-			e69mGJFSRbEv9Jy4z1rW5y8WmJcgic27D2df/0lhlLo=
+			xSbofBRWo7zCqiR2MdzJEs1N3C2YzJ3wIwyGvNJyPhU=
 			</data>
 		</dict>
 		<key>Headers/RCTBaseTextInputView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+/sW4dnOA/0Yyj9QGYQodimsMh0=
+			U19T+Y2dGE+nepsGTQFpYUtW+Ec=
 			</data>
 			<key>hash2</key>
 			<data>
-			oxjATdwmqVoqUly48r+VE3+EZURjYP36MBxKcct1EqM=
+			RK6Yfn915NALQmLoE0BL93HhoNYs25SNwHj6JSVYPoU=
 			</data>
 		</dict>
 		<key>Headers/RCTBaseTextInputViewManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oPfyuLITtDmeFkRunT6yeJ7fJok=
+			HneaCNIEpASOz2sJMtPLpoorLPk=
 			</data>
 			<key>hash2</key>
 			<data>
-			TlebGKFlK9mMeNtR8iwcsYcAXfu0rfhVjaHfbY2FJFQ=
+			F7uyJjReVHZlyu/Tk8BmZSGzSxp1q8o0iIdk6ycPQlE=
 			</data>
 		</dict>
 		<key>Headers/RCTBaseTextShadowView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HzyX3E/SV1PxxvvAyMETw+L1rOo=
+			oUfX3qSgTA4av1SBLOvjdhRQgtI=
 			</data>
 			<key>hash2</key>
 			<data>
-			/Ssu8BCtUAu1bcUM3rbBk9lKjYsiqHJ6X6upT2emdVg=
+			T/Rh3DdvtU7gzsdu4oH2/BZPGRHiANpbU+PfuT9XwnM=
 			</data>
 		</dict>
 		<key>Headers/RCTBaseTextViewManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sHBrp8eLAksV9ftFZazssSxuhXk=
+			f46UJBPwh6QYCW7Cp4heY7pajGU=
 			</data>
 			<key>hash2</key>
 			<data>
-			deGi599U8NUBpakJTTGP7zhXI3HQIlsn5wtgU4Pebgs=
+			ydjmzEUTaxr/9IvKO+J0oOHjn7jiHdmYtzDi1LsKe8o=
 			</data>
 		</dict>
 		<key>Headers/RCTConvert+Text.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cL5CVrBRVXWHEwfUNOzfHmqJkt4=
+			GBDjb/b0FFa9q/IisGDhVLD9M/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			SoiFAyj4WRUvgKZc4kYj84meeTnkcvTsB40mK8DCVfA=
+			xW9PdsyeUfB2kgHQeOLtxqi1rn3WwT96sF2hzGX2XqA=
+			</data>
+		</dict>
+		<key>Headers/RCTDynamicTypeRamp.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mLpUFSVLfAa01u8s517Mn8MUXUc=
+			</data>
+			<key>hash2</key>
+			<data>
+			6l0Kf/VF5vGhnnwOD+oA+D3Zld6megch2osMd6Kiaq0=
 			</data>
 		</dict>
 		<key>Headers/RCTInputAccessoryShadowView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tY1rVc0LOPUzwCN4StO8mTSdcSI=
+			BZ0Myqlhqx6rvcrgOtVbz1yAP/E=
 			</data>
 			<key>hash2</key>
 			<data>
-			catcPGqLfR3TMr0eYW6ESwRe/eWTBEBZeos/cAwZW/g=
+			AO10N2LmsLoTHd4nL7+PjESAMKVGFnvrlhkSQlYtZP0=
 			</data>
 		</dict>
 		<key>Headers/RCTInputAccessoryView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LIWTEfE2/GLO2iI5n3jP3viNUU8=
+			gfLeoU2RHpSP2LCFyt8fI/QnHRw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z04WPOhHDodbERbOx+Gk9t+on4L78jVBrxxmi472hu8=
+			NLfq9PrvQNs1z0yEoPQ6XXsSYjBEiGVFpYtB5eUb7ZE=
 			</data>
 		</dict>
 		<key>Headers/RCTInputAccessoryViewContent.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/QsFiR39sKGUWZKwdr01QEktasI=
+			q7WJG9zQ3Dr9VgT7/BBwBh2X3KQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			VRCMOeB1IJ8to2tf91sIgD3Izo5HdAuwunzNzQVkTv8=
+			ahjwaqvgtwVUS0Ni+FOvVwYxBxGgCZqFnGxhNuj42OE=
 			</data>
 		</dict>
 		<key>Headers/RCTInputAccessoryViewManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YCUhiyrNKS1N+v1NEfFdrmZ+9kM=
+			8ORL4PDm81YjjxbAGgjHCij/aB8=
 			</data>
 			<key>hash2</key>
 			<data>
-			q0bdHQjDlQGTRMY1Cvi/8srbHdsUMaOog7C5AUEOmeM=
+			JXzXE2dRybWJ6foJbIbInu1MPN2ON844eTQ//OLZnGY=
 			</data>
 		</dict>
 		<key>Headers/RCTMultilineTextInputView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ePFdPzj2hv3d2l0xb5+CYL0R/PE=
+			H7cqYkT9Y4Lg0p/snE5XdIaBRIU=
 			</data>
 			<key>hash2</key>
 			<data>
-			fddefu+VlvAk1/DfwlsHhQm+fx5aCjkD6sw27v8SY4s=
+			NcdiBBEzbddAcbLuLp1/6tuFiDWkrDvlt6BMA0cOA3c=
 			</data>
 		</dict>
 		<key>Headers/RCTMultilineTextInputViewManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OurZleefUSqQQytZtHvwvV29png=
+			zF6wikYJ4M0HpOYEjkD/9Tx1uog=
 			</data>
 			<key>hash2</key>
 			<data>
-			UWbii0VCjZuqMqRMiXyTtfLhabNE0jDvMF7fBas4kEU=
+			c7sjEHXkGbR/wieiBKgPqel1skPGomYuOgsS1jPjC3k=
 			</data>
 		</dict>
 		<key>Headers/RCTRawTextShadowView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e2hFRmI0fXQOGVlldOQFASwElhE=
+			fzJkZAIIct6otBub0MPjA8gNGUI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gg92yp7kC/Lr4jDPqWaoTRTwTmlSBhGcIFQLGwVbZM4=
+			IXnP6dKrunHGcr3SRN8PDtXy/F2awvdM6AGdOP2PLZo=
 			</data>
 		</dict>
 		<key>Headers/RCTRawTextViewManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XrXpkUKAYeWg6aQQqLgQcbhuB5c=
+			X6NJN+XTlHOXKZdd92M9/hxpRZ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			QL8TlNDtPce3E4X772Xp1U9mTkhKQvJidtkN+Y62oVw=
+			DzjCwhEf6KRAhd7V5v73byPxNwB8ZfoLn9OnF+ohfu8=
 			</data>
 		</dict>
 		<key>Headers/RCTSinglelineTextInputView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oQg1mLoGhX3QxsXhf7IinbW/2+M=
+			0wPJa6UhAML59hc9z/FtFYnoA38=
 			</data>
 			<key>hash2</key>
 			<data>
-			xaHBxevMKeoo/54Fkav3vvmgtEeh3mEV5Xsu2xVSBoo=
+			rV1+RopcratKLUzo61H5T2XzrNjojZBVAtQjPGE6/cM=
 			</data>
 		</dict>
 		<key>Headers/RCTSinglelineTextInputViewManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Txorr6mWuZnDiTKpl4qTuLo9rkE=
+			m9l3EL7e1Ky144SPe2vy5RPcz48=
 			</data>
 			<key>hash2</key>
 			<data>
-			lOgfIf+F6ImJj5viR+yu3dqnU7OphtfBFU8vwAfvIfw=
+			GJgNV/giJ1gIMnuxyxpCph6WpAECGbDL1frkOXEy0kw=
 			</data>
 		</dict>
 		<key>Headers/RCTTextAttributes.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m53OHO2cL5fOxyGTyVMBznlsK4Y=
+			WKAhUIQUs/SWGp/2ORJzKHrBldU=
 			</data>
 			<key>hash2</key>
 			<data>
-			W1tnvUaA5TsUicZOFHOrykSs3gdPRLNJ0FGnTgNgZbs=
+			HTE5vSBN4rNfmZ0yWFWSsJcjitXtNdDQcMA4lIgmu40=
 			</data>
 		</dict>
 		<key>Headers/RCTTextSelection.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qARCQqJWH3M8OfLnUHd4E2Ndj0Y=
+			VEVZJ78vy9QGoktRkhU2YS/+R4s=
 			</data>
 			<key>hash2</key>
 			<data>
-			DREriCp6VAl69SF5czWFknlsdBVpbEOtSJGfGAyQT74=
+			OA7jqGktdNLr1Rv4R982F867KerPleVEQZx2Oqno1VM=
 			</data>
 		</dict>
 		<key>Headers/RCTTextShadowView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DdX+yoK8CpWX2iySDf7Y3iPA1E4=
+			Nt8uFzHD0o5gPtGmJ1sjs8P4I/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			hscup7H2/G2id2Ktmuae7Zgap0jd14sOac2edx84JYw=
+			Z2nwJpXXZpYZcdAmqisL6hMralfXGSxK2W74N70O8F0=
 			</data>
 		</dict>
 		<key>Headers/RCTTextTransform.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nv/o4fZAawHUVutZmemex4fDq6I=
+			IISCNFTYEQs6iuGdpMYVTTA0aVQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			JMqsiyzkZEF6XFrdE2VNpTutl29SnkCOk7kr+w2zuiQ=
+			Ps52c7iK+FGTA6BXvneDz4IMRb3WE5F5Cwd5wJ4qLEI=
 			</data>
 		</dict>
 		<key>Headers/RCTTextView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nXEepAidOC0Nvf5CCczS/uNZ7DU=
+			+bfeecxIY8mCUfZQo6+DbDGKx8A=
 			</data>
 			<key>hash2</key>
 			<data>
-			i2LjEQptruSMLBi9GKPVNaDfHqsug7WdykMju6/4u4k=
+			mmb1f8Bi4T9nEHwe2gzflfPjFiVwlVgNAMRLr8Y0frk=
 			</data>
 		</dict>
 		<key>Headers/RCTTextViewManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			svpwNJj1vUYSmNWBrR+nHRp9qPo=
+			l38VOe24o7MVyYwF1OlcAiC2FRQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			V3aXszZNGWCW9tprWBaAxcuau2olr0ynBOPSeSQsKDo=
+			XKUzYFuUDbGa3Po6bHn/DKHN3pvO6Wa7LMp29eiicpY=
 			</data>
 		</dict>
 		<key>Headers/RCTUITextField.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kjTJp5NUCPt8B7AGTfySsDeZA3A=
+			sXbFDcFov7kedL9fN9d3AHGzE6g=
 			</data>
 			<key>hash2</key>
 			<data>
-			MNFJNFMW4nvGwWknpvs3IAmQqo6zYVVZyPiLqqInyyA=
+			KRbDIVbXdTpwiEmCLv95fpy8BTFUKghFIN+wRgPQw9o=
 			</data>
 		</dict>
 		<key>Headers/RCTUITextView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			93YRR/Ypa6jDKAAhsn/zpS1Masc=
+			XLuxXYhJadI9mQeI3wSzQtxwI9c=
 			</data>
 			<key>hash2</key>
 			<data>
-			IyrfhKE8ZTyVcjOho1Mkhn/N9rbrthmviJ2kq87DqKo=
+			q9jnAPD2Uk9H7H3D9cp0B9Aq9eTaNeUT3NLMPTkf0Mo=
 			</data>
 		</dict>
 		<key>Headers/RCTVirtualTextShadowView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gfNX4l7VV8j+TSwDPDuomTeL030=
+			YcZp3BmXksc4HDeI7ozvz+rgfzY=
 			</data>
 			<key>hash2</key>
 			<data>
-			+wgU6GG1pxeyyX0raDbcpC3e4jOyqQzinCgsNzwTPwo=
+			pSoDrRmtYu6vAp1Z7Ek7Z3dm3jCUWimjv0oX1XQi4Wo=
 			</data>
 		</dict>
 		<key>Headers/RCTVirtualTextViewManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jFBlW4z53+cE2v1bqNNnyPi2xh8=
+			Lg5y88OHAqUCdpXyiOJwdsXaYJ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			JI1fT9b2X+IfOeyIYASRWvlXBx92agy3Uo+nZ/iPkvQ=
+			P70WyUioOtVUuL2pTrb6EIEY94F+hY9zfWojhfWoOxI=
 			</data>
 		</dict>
 		<key>Headers/React-RCTText-umbrella.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ROm7hlLvy7cwi13viRNysU48AeY=
+			AIbpHluMYfe7fnL/SNlbcQkRigM=
 			</data>
 			<key>hash2</key>
 			<data>
-			TwSJv35wgR9SH72EgoWG4QRJ/goDbVOLAbWRgr+pzRA=
+			bnDpP44600AJR0hexBMiEEGY+jqhK+metVREzpmKueQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
